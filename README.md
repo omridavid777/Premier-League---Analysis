@@ -21,8 +21,8 @@ The data was obtained from a structured CSV file containing match results, inclu
 
 ---
 **Tools and Technologies**
-- SQL*: Data cleaning, exploration, and calculations.  
-- *Excel*: Data visualization using charts and graphs.  
+- SQL: Data cleaning, exploration, and calculations.  
+- Excel: Data visualization using charts and graphs.  
 
 ---
 
@@ -36,11 +36,11 @@ The data was obtained from a structured CSV file containing match results, inclu
 ---
 
 **Key Insights**
-1. Liverpool (45)* and *Tottenham (41)* lead the league in total goals scored.  
+1. Liverpool (45) and *Tottenham (41) lead the league in total goals scored.  
    - Liverpool scored more away goals.  
    - Tottenham scored more home goals.  
-2. Brentford (26)* scored the most home goals but struggled away (only 6 goals).  
-3. *Southampton (12)* has the lowest total goals, with weak performances both home and away.  
+2. Brentford (26) scored the most home goals but struggled away (only 6 goals).  
+3. Southampton (12)* has the lowest total goals, with weak performances both home and away.  
 4. Teams like Leicester showed balance, with equal home and away goals (11 each).  
 
 ---
@@ -51,7 +51,18 @@ The analysis includes detailed visualizations showcasing:
 - Breakdown of home and away goals.  
 - Averages to compare performance across the league.  
 
-(Include a screenshot or link to the graphs if possible.)
+
+
+![image](https://github.com/user-attachments/assets/e2ea388e-0f7b-46ff-acec-f30312e689c6)
+
+
+![image](https://github.com/user-attachments/assets/b82f1374-407a-401e-97e0-47b2c692881e)
+
+
+
+![image](https://github.com/user-attachments/assets/3e394ebf-137a-4684-ab19-05480a476ff5)
+
+
 
 ---
 
